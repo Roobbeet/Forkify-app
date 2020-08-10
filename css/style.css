@@ -490,3 +490,12 @@ body {
   .shopping__item:hover .shopping__delete {
     opacity: 1;
     visibility: visible; }
+  .list__clear {
+    padding: 5px;
+    margin-top: 20px;
+    width: 50%;
+    border: none;
+    outline: none;
+    position: relative;
+    left: 25%;
+  }
