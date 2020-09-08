@@ -4,7 +4,7 @@
   "description": "forkify project",
   "main": "index.js",
   "engines": {
-    "node": "12.x"
+    "node": "12.18.2"
   },
   "scripts": {
     "dev": "webpack --mode development",
